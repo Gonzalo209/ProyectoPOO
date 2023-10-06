@@ -16,7 +16,8 @@ public class ControlLogin implements ActionListener {
 
         String usuario = VistaLogin.getTxtUsuario().getText();
         String password = VistaLogin.getTxtPassword().getText();
-
+        
+        //Menú 
         switch (menu) {
 
             case "Registrar" ->

@@ -1,3 +1,5 @@
+//Método main
+
 import vista.VistaLogin;
 
 public class Main {
